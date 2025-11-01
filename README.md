@@ -1,3 +1,3 @@
 # OpenSource
 
-Some open-access files here. Take care.
+A collection of some of my code. Nothing fancy—just a big heap of miscellaneous projects and snippets.
